@@ -5,7 +5,7 @@ Projeto em desenvolvimento, utilizando as tecnologias:
 - NodeJS;
 - TypeScript.
 
-Sistema para agendamento de horários em barberias.
+Sistema para agendamento de horários em barbearias.
 
 #### Agendar um horário
 
